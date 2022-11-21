@@ -1,0 +1,58 @@
+p {
+    letter-spacing: 0.05em;
+    word-spacing: 0em;
+    line-height: 1.5;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #FF2A2A;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ffa0a0;
+}
+
+body {
+	letter-spacing: 0.1em;
+    word-spacing: 0em;
+    line-height: 1.5;
+    text-align: center;
+    font-size: 18px;
+    color: #374837;
+    background-color: #ffffff;
+    font-family: "Work Sans";
+}
+
+
+#navigation {
+
+    top: 8%;
+    left: 0;
+    width: 100%;
+    text-shadow: -1.2px 1.2px 1.2px #dbd9ce;
+    line-height: 0.7;
+}
+
+#content {
+    margin-left: 1px;
+}
+
+#SeenAt {
+        font-size: 15px;
+}
+
+
+#SeenOn {
+        font-size: 15px;
+}
+
+#Bio {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: left;
+}
+
+html { margin-left: calc(100vw - 100%); }

@@ -20,10 +20,10 @@ body {
     word-spacing: 0em;
     line-height: 1.5;
     text-align: center;
-    font-size: 18px;
+    font-size: 24px;
     color: #374837;
     background-color: #E3E2DB;
-    font-family: "Work Sans";
+    font-family: "Work Sans", Helvetica, Arial, sans-serif ;
 }
 
 
